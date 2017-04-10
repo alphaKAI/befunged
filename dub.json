@@ -1,0 +1,9 @@
+{
+	"name": "befunged",
+	"authors": [
+		"Akihiro Shoji"
+	],
+	"description": "Tiny befunge-93 interpreter",
+	"copyright": "Copyright © 2017, Akihiro Shoji",
+	"license": "MIT"
+}
